@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\bin\Debug\Arackiralamaproject.exe.config
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\bin\Debug\Arackiralamaproject.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\bin\Debug\Arackiralamaproject.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.form_anasayfa.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.form_musteriekle.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.Properties.Resources.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.exe
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.pdb
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.MusteriListele.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.AracEkle.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.AracListele.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.Sozlesme.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.Satis.resources
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\ders nesneye yön\hafta1\Arackiralamaproject\Arackiralamaproject\obj\Debug\Arackiralamaproject.csproj.CoreCompileInputs.cache
